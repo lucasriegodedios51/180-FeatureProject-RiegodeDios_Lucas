@@ -1,0 +1,1 @@
+Recreate a feature from a video game. For this project I will recreate Thor's Hammer Throw (Right Click ability) from Marvel Rivals. If there is more time I will possibly recreate some other features from Thor's kit.
